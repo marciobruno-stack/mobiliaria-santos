@@ -1,29 +1,37 @@
-# 🏢 Imobiliária Santos
+# 🏢 Imobiliária Santos - Projeto Acadêmico
 
-Um site moderno e responsivo para a Imobiliária Santos, apresentando serviços imobiliários, equipe de profissionais e informações de contato.
+Um site institucional desenvolvido como **projeto acadêmico** para a disciplina de Desenvolvimento Web, apresentando um portal imobiliário com informações sobre a empresa, serviços e contatos.
 
-## 📋 Sobre o Projeto
+## 📚 Sobre o Projeto
 
-A **Imobiliária Santos** é uma empresa consolidada no mercado imobiliário com **10 anos de experiência** e confiança. Este projeto é um site institucional que apresenta a empresa, seus serviços e facilita o contato com a equipe de corretores.
+Este é um projeto de **aprendizado em desenvolvimento front-end**, criado para praticar e demonstrar habilidades em:
+- Estruturação semântica com HTML5
+- Estilização com CSS3
+- Design responsivo e interface amigável
+- Princípios de UX/UI básico
 
-## 🎯 Funcionalidades Principais
+**Objetivo:** Desenvolver um website completo do zero, integrando HTML e CSS de forma prática e funcional.
 
-- ✅ **Página Inicial com Banner** - Destaque visual dos serviços
-- ✅ **Seção Sobre** - Apresentação da empresa e credibilidade
-- ✅ **Catálogo de Serviços** - Venda, Aluguel, Financiamento e Parcerias
-- ✅ **Equipe de Corretores** - Apresentação da equipe qualificada
-- ✅ **Múltiplos Endereços** - Barra da Tijuca, Centro/RJ e Méier
-- ✅ **Mapa Integrado** - Localização das unidades
-- ✅ **Contato Direto** - E-mail e telefone para diferentes escritórios
+## 🎯 Funcionalidades
+
+- ✅ Página inicial com navegação intuitiva
+- ✅ Seção "Sobre" com informações da empresa
+- ✅ Listagem de serviços oferecidos
+- ✅ Apresentação da equipe
+- ✅ Múltiplos endereços com mapa integrado
+- ✅ Formulário e canais de contato
+- ✅ Design limpo e profissional
 
 ## 🛠️ Tecnologias Utilizadas
 
-| Tecnologia | Descrição |
-|---|---|
-| **HTML5** | Estrutura semântica e marcação |
-| **CSS3** | Estilização e responsividade |
+| Tecnologia | Versão | Uso |
+|---|---|---|
+| **HTML5** | - | Estrutura e marcação semântica |
+| **CSS3** | - | Estilização e layout |
 
-## 📁 Estrutura do Projeto
+**Nota:** Projeto 100% frontend, sem dependências externas complexas.
+
+## 📁 Estrutura de Arquivos
 
 ```
 mobiliaria-santos/
@@ -34,16 +42,17 @@ mobiliaria-santos/
 │   ├── logo.png
 │   ├── banner.jpg
 │   └── ...
-└── README.md           # Este arquivo
+├── README.md           # Documentação
+└── .gitignore          # Arquivos ignorados
 ```
 
-## 🚀 Como Utilizar
+## 🚀 Como Visualizar
 
-### Pré-requisitos
-- Navegador web moderno (Chrome, Firefox, Safari, Edge)
-- Nenhuma instalação adicional necessária
+### Requisitos
+- Navegador web moderno (Chrome, Firefox, Safari ou Edge)
+- Sem necessidade de servidor ou instalação
 
-### Passos para Visualizar
+### Passos
 
 1. **Clone o repositório:**
    ```bash
@@ -51,58 +60,79 @@ mobiliaria-santos/
    cd mobiliaria-santos
    ```
 
-2. **Abra no navegador:**
-   - Clique duplo no arquivo `index.html`, ou
-   - Arraste o arquivo para o navegador, ou
-   - Use uma extensão como [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no VS Code
+2. **Abra o arquivo `index.html`:**
+   - Duplo clique no `index.html`, ou
+   - Arraste para o navegador, ou
+   - Use **Live Server** no VS Code para melhor experiência
 
-## 📞 Seções de Contato
-
-| Localidade | Contato |
-|---|---|
-| **Barra da Tijuca** | Email: barra@imobiliariasantos.com.br |
-| **Centro/RJ** | Email: centro@imobiliariasantos.com.br |
-| **Méier** | Email: meier@imobiliariasantos.com.br |
-
-## 📊 Composição do Projeto
+## 📊 Composição do Código
 
 - **HTML:** 67.5%
 - **CSS:** 32.5%
 
-## 🎨 Recursos Visuais
+## 🎨 Recursos Implementados
 
-- Design limpo e profissional
-- Interface intuitiva
-- Navegação simples e clara
-- Integração com Google Maps
-- Links de navegação rápida (âncoras)
+### HTML
+- Estrutura semântica com tags apropriadas
+- Navegação com âncoras (links internos)
+- Integração com Google Maps (iframe)
+- Links de contato (email e telefone)
+- Imagens otimizadas
 
-## 🔄 Navegação
+### CSS
+- Layout flexível e organizado
+- Tipografia profissional
+- Paleta de cores coerente
+- Efeitos de hover simples
+- Design responsivo
 
-O site possui um menu de navegação com links para:
-- Sobre
-- Serviços
-- Corretores
-- Contato
+## 📋 Seções do Site
 
-## 📝 Melhorias Futuras
+| Seção | Descrição |
+|---|---|
+| **Header** | Logo e navegação principal |
+| **Banner** | Imagem de destaque |
+| **Sobre** | Histórico da empresa (10 anos) |
+| **Serviços** | Venda, Aluguel, Financiamento, Parcerias |
+| **Corretores** | Apresentação da equipe |
+| **Contato** | Endereços, telefones e mapa |
+| **Footer** | Informações gerais e links |
 
-- [ ] Formulário de contato interativo
-- [ ] Galeria de imóveis disponíveis
-- [ ] Filtro de pesquisa de propriedades
-- [ ] Integração com banco de dados
-- [ ] Responsividade otimizada para mobile
-- [ ] Modo escuro
-- [ ] Suporte para múltiplos idiomas
+## 📍 Localizações
 
-## 👨‍💼 Autor
+- **Barra da Tijuca** - RJ
+- **Centro** - RJ  
+- **Méier** - RJ
 
-**Marcio Bruno**
+## 🎓 Conceitos Académicos Aplicados
+
+- ✅ Semântica HTML5 adequada
+- ✅ Separação de responsabilidades (HTML/CSS)
+- ✅ Boas práticas de nomeação de classes
+- ✅ Organização de arquivos
+- ✅ Princípios de design responsivo
+- ✅ Acessibilidade básica
+
+## 💡 Melhorias Futuras (Potencial)
+
+- [ ] JavaScript para interatividade
+- [ ] Formulário de contato funcional
+- [ ] Galeria de imóveis com lightbox
+- [ ] Filtro de busca de propriedades
+- [ ] Temas alternativos (dark mode)
+- [ ] Versão mobile-first
+- [ ] Suporte a múltiplos idiomas
+- [ ] Backend com banco de dados
+
+## 📝 Autor
+
+**Marcio Bruno**  
+Projeto Acadêmico - Desenvolvimento Web
 
 ## 📄 Licença
 
-Este projeto está disponível para uso pessoal e comercial.
+Este projeto é fornecido como material educacional.
 
 ---
 
-**Desenvolvido com ❤️ para Imobiliária Santos**
+**Desenvolvido como projeto de aprendizado em desenvolvimento web 🎓**
